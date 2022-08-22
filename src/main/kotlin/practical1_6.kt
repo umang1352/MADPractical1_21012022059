@@ -1,4 +1,3 @@
-/*
 fun main(){
     add(111, 2222, -222)
     sub(111, 2222, -222)
@@ -21,5 +20,3 @@ fun div(a:Int, b:Int){
 fun mod(a:Int, b:Int){
     println("Modulus of $a, $b is ${a % b}")
 }
-
- */

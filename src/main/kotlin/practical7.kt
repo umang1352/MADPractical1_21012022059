@@ -1,4 +1,3 @@
-/*
 import java.util.Arrays
 import java.util.*
 fun main() {
@@ -69,4 +68,3 @@ fun main() {
     print(a7.joinToString())
     print(" ]\n")
 }
- */

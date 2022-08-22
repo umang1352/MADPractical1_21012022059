@@ -13,9 +13,7 @@ fun main (){
     val un= readLine()
     print("Student Age:")
     val age= readLine()
-
     println("/n/n********************/n/n")
-
     println("Student Data:")
     println("Enrollment:$en")
     println("Name:$name")

@@ -1,6 +1,5 @@
 import kotlin.text.toInt as toInt1
-
-/*fun main(){
+fun main(){
     println("Enter a number")
     var x= readln()!!.toInt()
     when(x){
@@ -45,4 +44,3 @@ import kotlin.text.toInt as toInt1
         }
     }
 }
-*/

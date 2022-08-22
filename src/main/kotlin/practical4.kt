@@ -1,4 +1,4 @@
-/*fun main(){
+fun main(){
     print("Enter the Number:")
     val number= readLine()!!.toInt()
     if(number%2==0){
@@ -9,4 +9,3 @@
 
     }
 }
-*/

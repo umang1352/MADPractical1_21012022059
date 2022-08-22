@@ -1,4 +1,4 @@
-/*
+
 fun main(){
 
 
@@ -9,4 +9,4 @@ fun main(){
     println("x=$y")
     println("x=$z")
 
-}*/
+}

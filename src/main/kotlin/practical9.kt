@@ -1,4 +1,4 @@
-/*fun findmax(a:Array<Int>){
+fun findmax(a:Array<Int>){
     var max = a[0]
     var count = 0
     for (i in a) {
@@ -16,4 +16,4 @@ fun main()
     var a = arrayOf(57, 90, 10, 13, 5, 14)
     findmax(a)
 
-}*/
+}
