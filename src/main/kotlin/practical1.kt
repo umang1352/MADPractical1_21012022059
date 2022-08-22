@@ -1,4 +1,6 @@
+/*
 fun main(){
+
 
     var x =1352
     var y:Int=1305
@@ -7,4 +9,4 @@ fun main(){
     println("x=$y")
     println("x=$z")
 
-}
+}*/

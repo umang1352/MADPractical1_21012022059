@@ -1,6 +1,8 @@
-fun main(){
+import kotlin.text.toInt as toInt1
+
+/*fun main(){
     println("Enter a number")
-    var x= readln()!! .toInt()
+    var x= readln()!!.toInt()
     when(x){
         1->{
             println("January")
@@ -43,3 +45,4 @@ fun main(){
         }
     }
 }
+*/
