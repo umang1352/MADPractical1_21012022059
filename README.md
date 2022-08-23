@@ -1,2 +1,13 @@
 # MADPractical1_21012022059![oppr1_5](https://user-images.githubusercontent.com/80378007/183871175-9fa2bcde-cff6-41c2-9988-885db9c7184d.png)
 ![Screenshot 2022-08-10 142207](https://user-images.githubusercontent.com/80378007/183871186-3bb11661-9272-4ca2-91e5-f550e181f5bb.png)
+ALL Practicals SS:
+![4_main](https://user-images.githubusercontent.com/80378007/186161762-9cd3a9fb-8763-4220-9f9e-01c07bad1c29.png)
+![6_main](https://user-images.githubusercontent.com/80378007/186161784-89329e03-d6e1-4d30-b3db-730857c30307.png)
+![7_main](https://user-images.githubusercontent.com/80378007/186161791-70ee48a9-0ec5-4cc7-b52b-d0c3e43c1c65.png)
+![8](https://user-images.githubusercontent.com/80378007/186161794-82741453-cc3e-46bf-bdde-c5c1a07d94d0.png)
+![9](https://user-images.githubusercontent.com/80378007/186161801-e6c3555e-d2d1-4d0f-91fb-002b871fc451.png)
+![10](https://user-images.githubusercontent.com/80378007/186161805-3082a84f-1130-444f-b7a7-fc91eb2704fa.png)
+![11_1](https://user-images.githubusercontent.com/80378007/186161856-a960371b-b787-4747-bd5d-d83694000e8a.png)
+![11_2](https://user-images.githubusercontent.com/80378007/186161875-ba9b9dc5-85ad-4180-a034-280c70977189.png)
+![2_main](https://user-images.githubusercontent.com/80378007/186161878-0a3cb2ee-b811-436a-adad-389b7d2db3f6.png)
+![3](https://user-images.githubusercontent.com/80378007/186161880-f946b184-3454-4092-a593-451b324bba72.png)
