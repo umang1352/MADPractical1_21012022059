@@ -1,5 +1,5 @@
 import kotlin.text.toInt as toInt1
-fun main(){
+/*fun main(){
     println("Enter a number")
     var x= readln()!!.toInt()
     when(x){
@@ -43,4 +43,4 @@ fun main(){
             println("plz enter valid number between 1 to 12")
         }
     }
-}
+}*/

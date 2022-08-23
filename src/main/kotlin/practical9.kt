@@ -13,7 +13,8 @@ fun findmax(a:Array<Int>){
 }
 fun main()
 {
-    var a = arrayOf(57, 90, 10, 13, 5, 14)
+    println("Vyas Umang_21012022059")
+    var a = arrayOf(13, 10, 1352, 52, 85, 114)
     findmax(a)
 
 }
